@@ -115,8 +115,6 @@ books_val = {
     {0x02002B40, 0x40, 272,200}
 }
 
-local socket = require('socket.core')
-
 while true do
 
     local ft = os.date("%b%d-(%Y) - %H_%M_%S")
